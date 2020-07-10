@@ -1,0 +1,14 @@
+{
+	"id": "43126c19-3529-4ed7-9429-3e220fdfd506",
+	"name": "NewmanEnvi",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://postman-echo.com/post",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-07-09T21:32:06.643Z",
+	"_postman_exported_using": "Postman/7.27.1"
+}
